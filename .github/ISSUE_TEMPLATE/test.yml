@@ -1,10 +1,10 @@
-name: Bug Report
+name: Test stuff
 description: File a bug report.
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
-  - octocat
+  - someone
 body:
   - type: markdown
     attributes:
